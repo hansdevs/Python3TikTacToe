@@ -1,4 +1,4 @@
-# gotbored---pythonTicTacToe
+# I got bored --> pythonTicTacToe
 
 
 # Python Tic Tac Toe Game
